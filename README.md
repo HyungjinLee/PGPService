@@ -11,16 +11,16 @@ Implemented in C++ Environment in order to
   
 # Program Screen Shots
 
-![rda](./img/rda.png)
+![rda](./img/rda.PNG)
 rda로 공개키, 개인키 생성 후 유저에게 분배
 
-![mda](./img/mda.png)
+![mda](./img/mda.PNG)
 mda로 해쉬값 추출 
 
-![result](./img/result.png)
+![result](./img/result.PNG)
 암호화된 session key 값 
 
-![result2](./img/result2.png)
+![result2](./img/result2.PNG)
 복호화된 plain text
 
 
