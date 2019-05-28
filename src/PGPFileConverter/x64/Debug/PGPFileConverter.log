@@ -1,0 +1,22 @@
+﻿  Application.cpp
+c:\users\user\downloads\이형진_pgpfileconverter\pgpfileconverter\application.cpp(38): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::string'입니다.
+c:\users\user\downloads\이형진_pgpfileconverter\pgpfileconverter\application.cpp(29): warning C4101: 'len' :참조되지 않은 지역 변수입니다.
+c:\users\user\downloads\이형진_pgpfileconverter\pgpfileconverter\application.cpp(30): warning C4101: 'buffer' :참조되지 않은 지역 변수입니다.
+  des.cpp
+c:\users\user\downloads\이형진_pgpfileconverter\pgpfileconverter\des.cpp(28): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+c:\users\user\downloads\이형진_pgpfileconverter\pgpfileconverter\main.cpp(21): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  md5.cpp
+c:\users\user\downloads\이형진_pgpfileconverter\pgpfileconverter\md5.cpp(352): warning C4267: '초기화 중': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\downloads\이형진_pgpfileconverter\pgpfileconverter\md5.cpp(399): warning C4477: 'printf' : 서식 문자열 '%a'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'long'입니다.
+c:\users\user\downloads\이형진_pgpfileconverter\pgpfileconverter\md5.cpp(401): warning C4477: 'printf' : 서식 문자열 '%ld'에 'long' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'time_t'입니다.
+  c:\users\user\downloads\이형진_pgpfileconverter\pgpfileconverter\md5.cpp(401): note: 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+  c:\users\user\downloads\이형진_pgpfileconverter\pgpfileconverter\md5.cpp(401): note: 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+  c:\users\user\downloads\이형진_pgpfileconverter\pgpfileconverter\md5.cpp(401): note: 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+c:\users\user\downloads\이형진_pgpfileconverter\pgpfileconverter\md5.cpp(465): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  rsa.cpp
+c:\users\user\downloads\이형진_pgpfileconverter\pgpfileconverter\rsa.cpp(80): warning C4244: '=': 'double'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\downloads\이형진_pgpfileconverter\pgpfileconverter\rsa.cpp(127): warning C4267: '=': 'size_t'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  UserNode.cpp
+  코드를 생성하고 있습니다...
+  PGPFileConverter.vcxproj -> C:\Users\user\Downloads\이형진_PGPFileConverter\x64\Debug\PGPFileConverter.exe
