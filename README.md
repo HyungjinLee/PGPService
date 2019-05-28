@@ -15,7 +15,7 @@ Implemented in C++ Environment in order to
 rda로 공개키, 개인키 생성 후 유저에게 분배
 
 ![mda](./img/mda.PNG)
-mda로 해쉬값 추출 
+md5로 해쉬값 추출 
 
 ![result](./img/result.PNG)
 암호화된 session key 값 
