@@ -1,5 +1,5 @@
 # PGPService
-Implemented in C++ Environment in order to 
+Implemented in C++ Environment in order to get an intuition about how PGPService works.
 
 # Folder Structure
 	img: 실행화면 캡쳐
